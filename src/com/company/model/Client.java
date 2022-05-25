@@ -1,6 +1,6 @@
 package com.company.model;
 
-public class Client {
+public class Client extends Register{
 
         private String cnpj;
         private String name;

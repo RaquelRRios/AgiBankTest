@@ -2,7 +2,7 @@ package com.company.model;
 
 import java.util.List;
 
-public class Sale {
+public class Sale extends Register{
 
     private Long id;
     private List<SaleItem> items;

@@ -2,7 +2,7 @@ package com.company.model;
 
 import java.math.BigDecimal;
 
-public class Salesman {
+public class Salesman extends Register{
 
         private String cpf;
         private String name;
